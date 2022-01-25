@@ -1,4 +1,4 @@
-# live-chat
+# GA Talk (live-chat)
 
 ## Project setup
 ```
